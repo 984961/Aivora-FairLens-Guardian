@@ -112,10 +112,10 @@ Approx. $500–$1500 using open-source tools and Google Cloud credits.
 ---
 
 ## Prototype
-Live Prototype: (Add your prototype link)
+Live Prototype: https://grill-patent-34522199.figma.site/
 
 ## Demo Video
-Demo Link: (Add video link)
+Demo Link: https://drive.google.com/file/d/1RQBgs3YGYGrhj_qrjOh2U9hv3TbFfm2M/view?usp=sharing
 
 ## Presentation
 Prototype PPT included in repository.
